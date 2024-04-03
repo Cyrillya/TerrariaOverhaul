@@ -34,6 +34,8 @@
 
 ### Localization
 - Chinese (`59.1%` -> `100%`) - PR [#232](https://github.com/Mirsario/TerrariaOverhaul/pull/232) by [**xiaoyvyv**](https://github.com/xiaoyvyv).
+- Fixed Overhaul's main menu buttons sometimes being incorrectly shown in English when a different language is selected.
+- A few more GUI elements were made localizable.
 
 # 5.0 BETA 14
 
