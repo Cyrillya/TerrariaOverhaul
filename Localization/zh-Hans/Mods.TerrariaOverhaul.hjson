@@ -18,8 +18,8 @@ Notifications: {
 DifficultyLevels: {
 	Creative: "旅途"
 	Normal: "我还年轻不想挖矿"
-	Expert: "大力上我"
-	Master: "我是克苏鲁的化身"
+	Expert: "全部倾泻给我"
+	Master: "吾乃克苏鲁之化身"
 	WorldDescriptionCreative: "创造/无障碍模式（为想要掌控一切的人准备）"
 	WorldDescriptionNormal: "敌人伤害较少，但掉落相同（适合悠闲的人）"
 	WorldDescriptionExpert: "新的标准体验（为你提供公平的挑战）"
@@ -71,7 +71,7 @@ ItemOverhauls: {
 	Melee: {
 		AirCombatInfo:
 			'''
-			[[攻击空中的敌人]]以获得速度，保持高度，以及撤退！
+			[[攻击空中的敌人]]以获得速度，保持高度，或者撤退！
 			在攻击过程中使用方向键来控制你的移动！
 			'''
 		PowerStrikeInfo: "通过连续挥砍来为[[强力斩击]]蓄能！"
@@ -198,7 +198,7 @@ Items: {
 
 	StoneAxe: {
 		DisplayName: "石斧"
-		Tooltip: "还不如拿根木棍"
+		Tooltip: "感觉……不如木棍"
 	}
 
 	StonePickaxe: {
