@@ -24,7 +24,7 @@ DifficultyLevels: {
 	Normal: "史莱姆哥别这样"
 	# The English text was originally "Bone Me Plenty", a Terraria/Skeleton-related pun on "Hurt Me Plenty" from DOOM 1, but got renamed to "Turn Me Undead" since then due to unintended sexual connotations.
 	# If translating that can be done without them - that's valid.
-	# Otherwise, the translation must be a Terraria-related pun on something slightly fearless or badass, along the lines of "Come At Me!", or "Give Me Pain"
+	# Otherwise, the translation must be a Terraria-related pun on something slightly fearless or badass, along the lines of "Come At Me!", or "Give Me Pain".
 	Expert: "光女你就这水平"
 	# The English text is a Terraria-related pun on "I Am Death Incarnate" of Wolfenstein (which quoted 'Babylon 5').
 	# Basically, the translation must be a Terraria-related pun on something super empowering like "I AM A GOD", or exciting for dangers the way "Ultra Nightmare!" sounds.
