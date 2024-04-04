@@ -17,9 +17,9 @@ Notifications: {
 
 DifficultyLevels: {
 	Creative: "旅途"
-	Normal: "我还年轻不想挖矿"
-	Expert: "全部倾泻给我"
-	Master: "吾乃克苏鲁之化身"
+	Normal: "史王兄弟别这样"
+	Expert: "光女你就这水平"
+	Master: "吾乃克苏鲁化身"
 	WorldDescriptionCreative: "创造/无障碍模式（为想要掌控一切的人准备）"
 	WorldDescriptionNormal: "敌人伤害较少，但掉落相同（适合悠闲的人）"
 	WorldDescriptionExpert: "新的标准体验（为你提供公平的挑战）"
