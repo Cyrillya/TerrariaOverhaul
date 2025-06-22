@@ -51,7 +51,7 @@ Ambience: {
 	}
 
 	EnableUnderwaterMuffling: {
-		DisplayName: "水下消音"
+		DisplayName: "水下音效模拟"
 		Description: "开启后，潜入水中后会通过“低通滤波”降低声音的频率范围。"
 	}
 }
@@ -120,13 +120,13 @@ Awareness: {
 	Description: "Overhaul包含一些帮助玩家提高感知游戏角色状态的功能，以提升沉浸感。"
 
 	EnableHealthPickupSounds: {
-		// DisplayName: "Enable New Health Pickup Audio"
-		// Description: "If enabled, new immersive sound effects will be used for health pickups."
+		DisplayName: "全新小红心拾取音效"
+		Description: "开启后，拾取小红心时将使用全新的沉浸式音效。"
 	}
 
 	EnableManaPickupSounds: {
-		// DisplayName: "Enable New Mana Pickup Audio"
-		// Description: "If enabled, new immersive sound effects will be used for mana pickups."
+		DisplayName: "全新小蓝星拾取音效"
+		Description: "开启后，拾取小蓝星时将使用全新的沉浸式音效。"
 	}
 
 	LowHealthFilteringIntensity: {
@@ -160,13 +160,13 @@ Balance: {
 	}
 
 	EnableCriticalStrikeRework: {
-		// DisplayName: "Enable Critical Strike Rework"
-		/* Description:
+		DisplayName: "暴击重制"
+		Description:
 			'''
-			The critical strike rework replaces random critical strikes with a consistent system of enemy weakpoints, hitting which guarantees critical damage, most weakpoints being enemies' backs'.
-			Critical Strike Chance stat is replaced with Critical Strike Damage, directly increasing effectiveness of the mechanic.
-			Dodgerolls integrate with this, confusing enemies you roll through and thus delaying their direction change.
-			''' */
+			用稳定的“弱点”系统取代原暴击机制，攻击敌人的弱点（一般为背部）必定造成暴击。
+			暴击几率属性改为暴击伤害属性，更加直观高效
+			可与翻滚搭配使用，翻滚越过敌人时会使其陷入硬直，延缓其转身动作。
+			'''
 	}
 
 	EnableDifficultyChanges: {
